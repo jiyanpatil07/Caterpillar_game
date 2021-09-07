@@ -1,4 +1,4 @@
 # Caterpillar_game
-This caterpillar game contains  only basics of Turtle graphics .
+This caterpillar game contains concepts of Turtle graphics .
 Using various turtle in single screen ; caterpillar, score and the leaf is printed on screen.
 
